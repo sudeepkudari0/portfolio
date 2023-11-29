@@ -12,7 +12,7 @@ const Portfolio = () => {
             <h2 className="text-2xl font-bold m-3">Kanban-App-Node</h2>
               <img src="./kanban-node.png" className="rounded-md duration-200 hover:scale-105"/>
               <div className="flex items-center justify-center">
-                  <button onClick={() => window.open("https://github.com/sudeepkudari0/kanban-app-node")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Demo</button>
+                  <button onClick={() => window.open("http://ec2-65-0-131-161.ap-south-1.compute.amazonaws.com")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Demo</button>
                   <button onClick={() => window.open("https://github.com/sudeepkudari0/kanban-app-node")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
               </div>
           </div>
