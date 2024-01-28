@@ -9,18 +9,18 @@ const Portfolio = () => {
             </div>
           <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
           <div className="shadow-md shadow-gray-600 rounded-lg">
-            <h2 className="text-2xl font-bold m-3">Kanban-App-Node</h2>
-              <img src="./kanban-node.png" className="rounded-md duration-200 hover:scale-105"/>
+            <h2 className="text-2xl font-bold m-3">Kanban-Next</h2>
+              <img src="./web.png" className="rounded-md duration-200 hover:scale-105"/>
               <div className="flex items-center justify-center">
-                  <button onClick={() => window.open("http://65.2.78.89/")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Demo</button>
-                  <button onClick={() => window.open("https://github.com/sudeepkudari0/kanban-app-node")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
+                  <button onClick={() => window.open("https://kanban-next-gamma.vercel.app/")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Demo</button>
+                  <button onClick={() => window.open("https://github.com/sudeepkudari0/Kanban-Next")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
               </div>
           </div>
           <div className="shadow-md shadow-gray-600 rounded-lg">
             <h2 className="text-2xl font-bold m-3">Book-Matching-App</h2>
               <img src="./book-match.png" className="rounded-md duration-200 hover:scale-105"/>
               <div className="flex items-center justify-center">
-                  <button onClick={() => window.open("http://13.127.208.227:5000/")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Demo</button>
+                  <button onClick={() => window.open("http://13.127.208.227:5000/")} className=" w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"></button>
                   <button onClick={() => window.open("https://github.com/sudeepkudari0/Reach-Best-Assignment")} className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
               </div>
           </div>
